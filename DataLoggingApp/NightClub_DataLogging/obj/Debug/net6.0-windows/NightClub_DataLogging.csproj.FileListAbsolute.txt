@@ -1,0 +1,60 @@
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.exe
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.deps.json
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.runtimeconfig.json
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.pdb
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.AssemblyReference.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.DataloggingAPP.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.Properties.Resources.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.GenerateResource.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.AssemblyInfoInputs.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.AssemblyInfo.cs
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.CoreCompileInputs.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\refint\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.pdb
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.genruntimeconfig.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\ref\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.dll.config
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.CopyComplete
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.FormDeleteMember.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.FormMemberArea.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\Objektsorientert programmering 2\Prosjekt 2 - Nattklubb\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.FormLogin.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.exe
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.dll.config
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.deps.json
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.runtimeconfig.json
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\NightClub_DataLogging.pdb
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.AssemblyReference.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.DataloggingAPP.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.FormDeleteMember.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.FormLogin.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.FormMemberArea.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.Properties.Resources.resources
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.GenerateResource.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.AssemblyInfoInputs.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.AssemblyInfo.cs
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.CoreCompileInputs.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.csproj.CopyComplete
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\refint\NightClub_DataLogging.dll
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.pdb
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\NightClub_DataLogging.genruntimeconfig.cache
+C:\Users\minid\OneDrive - USN\USN 2022-2023 Andre år\FERDIG\DataLoggingApp\DataLoggingApp\NightClub_DataLogging\obj\Debug\net6.0-windows\ref\NightClub_DataLogging.dll
