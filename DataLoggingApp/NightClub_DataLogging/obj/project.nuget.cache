@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x73ssadVxrPH6Dqbs0Uaqsqvgh8DsZbOAKrlbXNWIqs9vGGXc97NWAitZ6xN3zZFLBsBe+GCXD5cjenenv3kAw==",
+  "dgSpecHash": "CEBwlirD2vs/7nLTWuwwWGziZZrz7McbYlGTZCveeLiCVWDy/7OV5iu8n87GK8nTrQuMyJ/4gcFgH8yRNLhZJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minid\\OneDrive - USN\\USN 2022-2023 Andre år\\FERDIG\\DataLoggingApp\\DataLoggingApp\\NightClub_DataLogging\\NightClub_DataLogging.csproj",
+  "projectFilePath": "C:\\Users\\minid\\Desktop\\Nightclub-schoolproject-main\\Nightclub-schoolproject-main\\DataLoggingApp\\NightClub_DataLogging\\NightClub_DataLogging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minid\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\minid\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
